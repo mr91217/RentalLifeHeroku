@@ -1,1 +1,1 @@
-# RentalLifeHeroku
+# RentalLife
